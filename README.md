@@ -1,4 +1,1 @@
-data
-====
-
-The data files used in posts.
+The data files used in blog posts.
