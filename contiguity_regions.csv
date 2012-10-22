@@ -1,0 +1,8 @@
+,Aegean,Black_Sea,Central_Anatolia,Eastern_Anatolia,Marmara,Mediterranean,Southeastern_Anatolia
+Aegean,1,0,1,0,1,1,0
+Black_Sea,0,1,1,1,1,0,0
+Central_Anatolia,1,1,1,1,1,1,0
+Eastern_Anatolia,0,1,1,1,0,1,1
+Marmara,1,1,1,0,1,0,0
+Mediterranean,1,0,1,1,0,1,1
+Southeastern_Anatolia,0,0,0,1,0,1,1
